@@ -27,22 +27,22 @@ Specifically, you will assume the perspective of a Fintech Finder customer in or
 
 #### Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
 
-![streamlit](streamlit-fintech_finder.png)
+![streamlit](Images/streamlit-fintech_finder.png)
 
 #### Step 2: Sign and Execute a Payment Transaction
-![Lane](lane.png)
+![Lane](Images/lane.png)
 
 
-![ash](ash.png)
+![ash](Images/ash.png)
 
 
-![jo](jotransaction.png)
+![jo](Images/jotransaction.png)
 
 
 
-![kendall](kendalltransact.png)
+![kendall](Images/kendalltransact.png)
 
 
 #### Step 3: Inspect the Transaction
 
-![Final](final.png)
+![Final](Images/final.png)
